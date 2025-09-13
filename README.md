@@ -12,6 +12,7 @@ This project demonstrates React for the frontend and Node.js for the backend, wi
 ⚡ Fast Rendering – Powered by React components
 
 🛠️ Tech Stack
+
 Frontend:
 React.js – UI development & state management
 React Router – Client-side routing & navigation
